@@ -1,0 +1,4 @@
+dist/*
+.serverless
+.terraform
+.terraform.lock.hcl
